@@ -1,4 +1,4 @@
-# deep daiv. RAG
+# <img src="https://github.com/images/mona-whisper.gif" width="50"/> deep daiv. RAG
 This Organization is for archiving project repositories of deep daiv. RAG Team   
 
 ## Team Member
